@@ -358,14 +358,14 @@ $( "#input" ).on( "click", "button.btn-add-row", function() {
 				<div class="col-md-12"> \
 					<div class="form-group frommonth-wrap"> \
 						<select class="form-control frommonth validate"> \
-							<option value="1">Januari</option> \
-							<option value="2">Februari</option> \
-							<option value="3">Mars</option> \
+							<option value="1">Januar</option> \
+							<option value="2">Februar</option> \
+							<option value="3">Marts</option> \
 							<option value="4">April</option> \
 							<option value="5">Maj</option> \
 							<option value="6">Juni</option> \
 							<option value="7">Juli</option> \
-							<option value="8">Augusti</option> \
+							<option value="8">August</option> \
 							<option value="9">September</option> \
 							<option value="10">Oktober</option> \
 							<option value="11">November</option> \
@@ -412,14 +412,14 @@ $( "#input" ).on( "click", "button.btn-add-row", function() {
 					</div> \
 					<div class="form-group tomonth-wrap"> \
 						<select class="form-control tomonth validate"> \
-							<option value="1">Januari</option> \
-							<option value="2">Februari</option> \
-							<option value="3">Mars</option> \
+							<option value="1">Januar</option> \
+							<option value="2">Februar</option> \
+							<option value="3">Marts</option> \
 							<option value="4">April</option> \
 							<option value="5">Maj</option> \
 							<option value="6">Juni</option> \
 							<option value="7">Juli</option> \
-							<option value="8">Augusti</option> \
+							<option value="8">August</option> \
 							<option value="9">September</option> \
 							<option value="10">Oktober</option> \
 							<option value="11">November</option> \
@@ -463,7 +463,7 @@ $( "#input" ).on( "click", "button.btn-add-row", function() {
 					</div> \
 					<div class="form-group description-wrap"> \
 						<div class="form-group"> \
-							<input type="text" class="form-control description validate" placeholder="Beskrivning"> \
+							<input type="text" class="form-control description validate" placeholder="Beskrivelse"> \
 						</div> \
 					</div> \
 				</div> \
@@ -495,14 +495,14 @@ $("#btn-add-level").click(function(){
 					<div class="col-md-12"> \
 						<div class="form-group frommonth-wrap"> \
 							<select class="form-control frommonth validate"> \
-								<option value="1">Januari</option> \
-								<option value="2">Februari</option> \
-								<option value="3">Mars</option> \
+								<option value="1">Januar</option> \
+								<option value="2">Februar</option> \
+								<option value="3">Marts</option> \
 								<option value="4">April</option> \
 								<option value="5">Maj</option> \
 								<option value="6">Juni</option> \
 								<option value="7">Juli</option> \
-								<option value="8">Augusti</option> \
+								<option value="8">August</option> \
 								<option value="9">September</option> \
 								<option value="10">Oktober</option> \
 								<option value="11">November</option> \
@@ -549,14 +549,14 @@ $("#btn-add-level").click(function(){
 						</div> \
 						<div class="form-group tomonth-wrap"> \
 							<select class="form-control tomonth validate"> \
-								<option value="1">Januari</option> \
-								<option value="2">Februari</option> \
-								<option value="3">Mars</option> \
+								<option value="1">Januar</option> \
+								<option value="2">Februar</option> \
+								<option value="3">Marts</option> \
 								<option value="4">April</option> \
 								<option value="5">Maj</option> \
 								<option value="6">Juni</option> \
 								<option value="7">Juli</option> \
-								<option value="8">Augusti</option> \
+								<option value="8">August</option> \
 								<option value="9">September</option> \
 								<option value="10">Oktober</option> \
 								<option value="11">November</option> \
@@ -600,14 +600,14 @@ $("#btn-add-level").click(function(){
 						</div> \
 						<div class="form-group description-wrap"> \
 							<div class="form-group"> \
-								<input type="text" class="form-control description validate" placeholder="Beskrivning"> \
+								<input type="text" class="form-control description validate" placeholder="Beskrivelse"> \
 							</div> \
 						</div> \
 					</div> \
 				</div> \
 				<div class="row top-buffer"> \
 					<div class="col-md-12"> \
-						<button type="button" class="btn btn-info btn-add-row">Lägg till nytt datum</button> \
+						<button type="button" class="btn btn-info btn-add-row">Tilføj ny dato</button> \
 					</div> \
 				</div> \
 			</form> \
