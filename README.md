@@ -1,5 +1,5 @@
 # annual-cycle-illustration
-JS app to create illustrations for yearly cycle activities. This version is in english.
+JS app to create illustrations for yearly cycle activities. This version is in danish.
 
 
 ## Demo
