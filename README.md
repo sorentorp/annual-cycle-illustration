@@ -1,5 +1,6 @@
 # annual-cycle-illustration
-JS app to create illustrations for yearly cycle activities. Some stuff still in Swedish from local development.
+JS app to create illustrations for yearly cycle activities. This version is in english.
+
 
 ## Demo
 A Demo can be found [here](http://perenstrom.github.io/annual-cycle-illustration)
