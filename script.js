@@ -97,7 +97,7 @@ function validateRow(levelID, rowID, validateDescription){
 
 	if(error){
 		if(! $(formRow).find(".error-label").length){
-			descriptionWrap.after('<span class="label label-danger error-label">Något är fel på den här raden</span>');
+			descriptionWrap.after('<span class="label label-danger error-label">Noget er galt med denne linje</span>');
 		}
 		return false;
 	} else {
